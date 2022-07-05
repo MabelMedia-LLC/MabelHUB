@@ -4,8 +4,6 @@ MabelMedia.SharpPlus.BetterForms.dll
 MabelMedia.SharpPlus.CommandLine.dll
 MabelMedia.SharpPlus.CommonExtensions.dll
 MabelMedia.SharpPlus.CrossPlatform.dll
-MabelMedia.SharpPlus.Debugging.dll
 MabelMedia.SharpPlus.FileSystem.dll
 MabelMedia.SharpPlus.Serialization.dll
-MabelMedia.SharpPlus.Theming.dll
 MabelMedia.SharpPlus.Application.dll
