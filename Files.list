@@ -2,7 +2,6 @@ MabelHUB.exe
 Newtonsoft.Json.dll
 MabelMedia.SharpPlus.BetterForms.dll
 MabelMedia.SharpPlus.CommandLine.dll
-MabelMedia.SharpPlus.CommonExtensions.dll
 MabelMedia.SharpPlus.CrossPlatform.dll
 MabelMedia.SharpPlus.FileSystem.dll
 MabelMedia.SharpPlus.Serialization.dll
