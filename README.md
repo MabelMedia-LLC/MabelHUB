@@ -4,6 +4,6 @@ MabelHUB - The Modern, Flexible App Store And Package Manager, That Works For Yo
 # Licensing
 MabelHUB Falls Under The MCSPSL. Read <a href="https://github.com/MabelMedia-LLC/MCSPSL">The License</a> To Learn More.
 
-# Dependancies
+# Dependencies
 
 - tar (Linux, Windows) - Creating / Extracting FileBundles.
