@@ -9,7 +9,7 @@ MabelHUB, And All Apps Distributed With It, Unless Explicitly Stated Otherwise, 
 |----------|----------|-----------|
 | Linux | x86_64 | ✔️ |
 | Windows | x86_64 | ✔️ |
-| MacOS | x86_64 | ✔️ *<sup>1</sup> |
+| MacOS | Universal Binary (x86_64 & aarch64) | ✔️ *<sup>1</sup> |
 | Other | Any | ❌ |
 
 ## Notes:
