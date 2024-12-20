@@ -9,11 +9,11 @@ MabelHUB, And All Apps Distributed With It, Unless Explicitly Stated Otherwise, 
 |----------|----------|-----------|
 | Linux | x86_64 | ✔️ |
 | Windows | x86_64 | ✔️ |
-| MacOS | x86_64 | ❔ *<sup>1</sup> |
+| MacOS | x86_64 | ✔️ *<sup>1</sup> |
 | Other | Any | ❌ |
 
 ## Notes:
-*<sup>1</sup> - Untested, Doesn't Compile (Will Try With My Mac Mini).
+*<sup>1</sup> - Compiles (With osxcross), Untested.
 
 # How To Install
 To Install MabelHUB:
