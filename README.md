@@ -17,8 +17,8 @@ MabelHUB, And All Apps Distributed With It, Unless Explicitly Stated Otherwise, 
 
 *<sup>2</sup> - Untested, Doesn't Compile (Will Try With My Mac Mini).
 
-# Dev Note:
-
-Although MabelHUB Hasn't Been Released Yet, The CLI Has Been Completed, And Has Been Tested To Be ~85% Functionally Complete Under Linux.
-
-No Windows / MacOS Testing Has Been Done Yet, But All Paths Accomodate For Them, Using My Internal Dev Framework - `MabelMedia.SharpPlusNative`'s `CrossPlatformPath`.
+# How To Install
+To Install MabelHUB:
+- Download The File `MabelHUB` That's Marked With Your OS's Name, Anywhere That Your User Can Read / Write
+- Double Click / Run Via A Terminal. It'll Make It's Own Folder In Your Home Directory, And Copy Itself There.
+- All Apps Will Be Installed Into That Folder, As Well.
