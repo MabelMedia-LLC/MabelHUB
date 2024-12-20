@@ -5,8 +5,8 @@ LongDescription = ["QuicBuild Removes All The Fuss About:", "-The Annoying Targe
 
 [Version]
 Major = 0
-Minor = 1
-Build = 9
+Minor = 2
+Build = 0
 
 [MainExec]
 Linux = "QuicBuild"
