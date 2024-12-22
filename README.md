@@ -17,6 +17,6 @@ MabelHUB, And All Apps Distributed With It, Unless Explicitly Stated Otherwise, 
 
 # How To Install
 To Install MabelHUB:
-- Download The File `MabelHUB` That's Marked With Your OS's Name, Anywhere That Your User Can Read / Write
-- Double Click / Run Via A Terminal. It'll Make It's Own Folder In Your Home Directory, And Copy Itself There.
+- Download The File `Update` That's Marked With Your OS's Name, Anywhere That Your User Can Read / Write
+- Double Click / Run Via A Terminal. It'll Install The Latest Version Of MabelHUB Into It's Own Folder In Your Home Directory.
 - All Apps Will Be Installed Into That Folder, As Well.
