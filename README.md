@@ -19,3 +19,5 @@ MabelHUB, And All Apps Distributed With It, Unless Explicitly Stated Otherwise, 
 *<sup>2</sup> - Compiles, Untested.
 
 *<sup>3</sup> - Compiles (With osxcross), Untested.
+
+- [ x86, arm32 ] Are Considered Legacy Architectures, And Will Not Be Supported.
