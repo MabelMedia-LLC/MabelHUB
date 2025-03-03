@@ -17,7 +17,3 @@
 - MacOS x64 & aarch64 Are Partly Supported, But Probably Will Break As My Mac Mini's Install Of MacOS Is Currently **Very Broken**.
 
 - No Other CPU Type For MacOS Exist.
-
-### Part 4: Other CPUs / OSes
-
-- If You Want A New OS / CPU Type Combo Supported, Please Open An Issue With The Tag "PlatformSupport".
