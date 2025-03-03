@@ -1,0 +1,15 @@
+AppID = "MabelMedia-LLC.MabelPad"
+ShortDescription = "A Simple, Flexible Cross-Platform Text Editor."
+LongDescription = [""]
+FileBundleHashes = ["4e50ed3b8b8c2222cb08f0ad77faff22943ce0c63479f6b3f413a43f75eabe2d", "e6640715e1f8a40445adfb09fe5ad32785b052d2052baf2c6951508e35ff9cf2", "77e239855f60c7ca2ad5f5f3034bc4d77121245ac7a1dcb8d7149406fda34821"]
+
+[Version]
+Major = 0
+Minor = 0
+Patch = 1
+BuildNumber = 13
+
+[MainExec]
+Linux = "MabelPad"
+MacOS = "MabelPad"
+Windows = "MabelPad.exe"
