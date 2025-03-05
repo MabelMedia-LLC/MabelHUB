@@ -7,7 +7,7 @@ MabelHUB, And All Apps Distributed With It, Unless Explicitly Stated Otherwise, 
 # Platform Support
 | Platform | CPU Type | Supported | Update File |
 |----------|----------|-----------|-------------|
-| Linux | x86_64 | ✔️ *<sup>1</sup> | Update-Linux |
+| Linux | x86_64, aarch64 *<sup>3</sup> | ✔️ *<sup>1</sup> | Update-Linux |
 | Windows | x86_64 | ✔️ | Update-Windows.exe |
 | MacOS | Universal Binary (x86_64 & aarch64) | ✔️ *<sup>2</sup> | Update-MacOS |
 | Other | Any | ❌ | N/A |
@@ -17,4 +17,7 @@ MabelHUB, And All Apps Distributed With It, Unless Explicitly Stated Otherwise, 
 
 *<sup>2</sup> - Compiles (With osxcross), Untested.
 
+*<sup>3</sup> - aarch64 Compiles, Untested.
+
+# GUI Note
 MabelHUB Is Command-Line Only, And I Have No Plans To Add A GUI.
