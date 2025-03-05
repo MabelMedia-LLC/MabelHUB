@@ -16,3 +16,5 @@ MabelHUB, And All Apps Distributed With It, Unless Explicitly Stated Otherwise, 
 *<sup>1</sup> - This Is The Version New Features Are Developed Against.
 
 *<sup>2</sup> - Compiles (With osxcross), Untested.
+
+MabelHUB Is Command-Line Only, And I Have No Plans To Add A GUI.
