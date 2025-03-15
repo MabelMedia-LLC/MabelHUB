@@ -20,6 +20,3 @@ MabelHUB, And All Apps Distributed With It, Unless Explicitly Stated Otherwise, 
 *<sup>3</sup> - aarch64 Compiles, Untested.
 
 *<sup>4</sup> - Mostly Works.
-
-# GUI Note
-MabelHUB Is Command-Line Only, And I Have No Plans To Add A GUI.
