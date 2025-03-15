@@ -12,10 +12,12 @@
 
 - Other CPU Types For Windows Aren't Supported.
 
+- The Minimum Version Of Windows Supported Is Currently Windows 10.
+
 ### Part 3: MacOS
 
 - MacOS x64 & aarch64 Are Partly Supported, But Probably Will Break As My Mac Mini's Install Of MacOS Is Currently **Very Broken**.
 
 - No Other CPU Types For MacOS Exist.
 
-- The Minimum Version Of MacOS Supported Is Currently v10.12
+- The Minimum Version Of MacOS Supported Is Currently 10.12.
