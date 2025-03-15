@@ -9,7 +9,7 @@ MabelHUB, And All Apps Distributed With It, Unless Explicitly Stated Otherwise, 
 |----------|----------|-----------|----------------|-------------|
 | Linux | x86_64, aarch64 *<sup>3</sup> | ✔️ *<sup>1</sup> | x86_64 ✔️, aarch64 ❌ | Update-Linux |
 | Windows | x86_64 | ✔️ *<sup>4</sup> | ❌ | Update-Windows.exe |
-| MacOS | Universal Binary (x86_64 & aarch64) | ✔️ *<sup>2</sup> | ❌ | Update-MacOS |
+| MacOS | Universal Binary (x86_64 & aarch64), 10.12 And Later | ✔️ *<sup>2</sup> | ❌ | Update-MacOS |
 | Other | Any | ❌ | ❌ | N/A |
 
 ## Notes:
