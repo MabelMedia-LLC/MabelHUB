@@ -1,0 +1,15 @@
+AppID = "MabelMedia-LLC.Settings"
+ShortDescription = "A Simple Editor Frontend For The SettingsDB Universal Config Value Storage."
+LongDescription = ["A Simple Settings Editor For The MabelMedia SettingsDB Format."]
+FileBundleHashes = ["6d79bcfe75e6116940b1fe35ca44e88b8addb82b84d65f305dac6caf83776b08", "e61a3539d820f8b0730383f617143b93fbee392ac9fa38162c7ce95f985c7f5b", "405f5bc72ca4af6d2fa679d86f3befb69dd174f067d4e3c2b6c4d92ac40aa2f9"]
+
+[Version]
+Major = 0
+Minor = 0
+Patch = 1
+BuildNumber = 12
+
+[MainExec]
+Linux = "Settings"
+MacOS = "Settings"
+Windows = "Settings.exe"
