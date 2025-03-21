@@ -1,7 +1,7 @@
 AppID = "MabelMedia-LLC.QuicBuild"
 ShortDescription = "Building Rust Programs, Made Simple."
 LongDescription = ["QuicBuild Removes All The Fuss About:", "- The Annoying Target Folder Structure", "- Shell Flags", "- And Massive Default Binary Sizes", "", "QuicBuild Solves All These Problems, And Provides UPX Integration (UPX Installation Required) To Compress Your Binaries Further."]
-FileBundleHashes = ["b774a3fdd834d380f3e7793c588f3e34a57864231623c765d1cc2cbe1773870b", "dea2867786a5a0d781eb5ab90517ac2666282600be60065a65dfe3e2959b4d77", "c72a59616415739d0d6f0a5e5b85c662e907cb3c415f0bdd65c7549a7287598f"]
+FileBundleHashes = ["9fbbe7c983b9d6c8bbd83cc3aa70237b12907d58f2e9c573bfcfab68afbd467a", "c3e051ccd368f6938e7247c80fe68063f9332df9d4c0e2c49c4f1d1cc801060f", "246a79240e6e0bc3f96f41ec3de08ce8576e8fb24e81497cddddab7618d6559e"]
 
 [Version]
 Major = 0
