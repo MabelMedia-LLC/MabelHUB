@@ -1,7 +1,7 @@
 AppID = "MabelMedia-LLC.Settings"
 ShortDescription = "A Simple Editor Frontend For The SettingsDB Universal Config Value Storage."
 LongDescription = ["A Simple Settings Editor For The MabelMedia SettingsDB Format."]
-FileBundleHashes = ["4b9d4d1c3752c0577b0440948f448f8f48891b5ee9a03c3f4096560cec9e212c", "1820a784fad703fe139a2833cb6948ed590fab60f07acfadf44dfa242de3b89e", "db6b7807b936182d5f954be2c93f885ac3f4eac147900790ca0fb69c972fcbdd"]
+FileBundleHashes = ["5ff54f5f1224b3b12dc82460ee41960be6efca8aef17d28a04a434c0c32b1039", "d65506db4896d9e03595bd35e04c529d4c0f4a3da1b9aca71835a6741ffc8d31", "44f43890c5e8b4028debd25b85168be45752558c0a6c7047628470ae53695e8a"]
 
 [Version]
 Major = 0
