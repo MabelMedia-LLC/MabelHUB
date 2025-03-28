@@ -20,3 +20,11 @@ MabelHUB, And All Apps Distributed With It, Unless Explicitly Stated Otherwise, 
 *<sup>3</sup> - aarch64 Compiles, Untested.
 
 *<sup>4</sup> - Mostly Works.
+
+# Translation
+British English - 100% (Primary Development Language)
+
+## Help Needed!
+Please Help Translate MabelHUB And It's Apps Into Other Languages, And Open PRs With The Language Files
+
+(You Should Use The en_gb Versions As A Base, As The Strings Contain Templates Filled In By The Programs (Errors And Other Variables)
