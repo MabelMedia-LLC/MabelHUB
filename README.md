@@ -7,19 +7,17 @@ MabelHUB, And All Apps Distributed With It, Unless Explicitly Stated Otherwise, 
 # Platform Support
 | Platform | CPU Type | Supported | Active Testing | Update File |
 |----------|----------|-----------|----------------|-------------|
-| Linux | x86_64, aarch64 *<sup>3</sup> | ✔️ *<sup>1</sup> | x86_64 ✔️, aarch64 ❌ | Update-Linux |
-| Windows | x86_64 | ✔️ *<sup>4</sup> | ❌ | Update-Windows.exe |
-| MacOS | Universal Binary (x86_64 & aarch64) | ✔️ *<sup>2</sup> | ❌ | Update-MacOS |
+| Linux | x86_64 | ✔️ *<sup>1</sup> | ✔️ | Update-Linux |
+| Windows | x86_64 | ✔️ *<sup>2</sup> | ❌ | Update-Windows.exe |
+| MacOS | Apple Silicon (aarch64) | ✔️ *<sup>3</sup> | ❌ | Update-MacOS |
 | Other | Any | ❌ | ❌ | N/A |
 
 ## Notes:
 *<sup>1</sup> - This Is The Version New Features Are Developed Against.
 
-*<sup>2</sup> - Compiles (With osxcross), Untested.
+*<sup>2</sup> - Mostly Works.
 
-*<sup>3</sup> - aarch64 Compiles, Untested.
-
-*<sup>4</sup> - Mostly Works.
+*<sup>3</sup> - Compiles (With osxcross), Untested.
 
 # Translation
 British English - 100% (Primary Development Language)
