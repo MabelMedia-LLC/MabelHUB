@@ -7,7 +7,7 @@ MabelHUB, And All Apps Distributed With It, Unless Explicitly Stated Otherwise, 
 # Platform Support
 | Platform | CPU Type | Supported | Active Testing | Update File |
 |----------|----------|-----------|----------------|-------------|
-| Linux | x86_64 | ✔️ [ Primary For Testing ] | ✔️ | Update-Linux |
+| Linux | x86_64 | ✔️ Primary For Testing | ✔️ | Update-Linux |
 | Windows | x86_64 | ✔️ *<sup>1</sup> | ❌ | Update-Windows.exe |
 | MacOS | Apple Silicon (aarch64) | ✔️ *<sup>2</sup> | ❌ | Update-MacOS |
 | Other | Any | ❌ | ❌ | N/A |
