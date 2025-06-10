@@ -23,4 +23,4 @@ British English - 100% (Primary Development Language)
 ## Help Needed!
 Please Help Translate MabelHUB And It's Apps Into Other Languages, And Open PRs With The Language Files
 
-(You Should Use The en_gb Versions As A Base, As The Strings Contain Templates Filled In By The Programs (Errors And Other Variables)
+(You Should Use The en_gb Versions As A Base, As The Strings Contain Templates Filled In By The Programs (Errors And Other Variables))
