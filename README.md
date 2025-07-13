@@ -15,7 +15,7 @@ MabelHUB, And All Apps Distributed With It, Unless Explicitly Stated Otherwise, 
 ## Notes:
 *<sup>1</sup> - Compiles, Untested.
 
-*<sup>2</sup> - Compiles (With osxcross), Untested.
+*<sup>2</sup> - Compiles, Untested.
 
 # Translation
 British English - 100% (Primary Development Language)
