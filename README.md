@@ -9,13 +9,11 @@ MabelHUB, And All Apps Distributed With It, Unless Explicitly Stated Otherwise, 
 |----------|----------|-----------|----------------|-------------|
 | Linux | x86_64 | ✔️ Primary For Testing | ✔️ | Update-Linux |
 | Windows | x86_64 | ✔️ *<sup>1</sup> | ❌ | Update-Windows.exe |
-| MacOS | Apple Silicon (aarch64) | ✔️ *<sup>2</sup> | ❌ | Update-MacOS |
+| MacOS | Apple Silicon (aarch64) | ✔️ *<sup>1</sup> | ❌ | Update-MacOS |
 | Other | Any | ❌ | ❌ | N/A |
 
 ## Notes:
 *<sup>1</sup> - Compiles, Untested.
-
-*<sup>2</sup> - Compiles, Untested.
 
 # Translation
 British English - 100% (Primary Development Language)
