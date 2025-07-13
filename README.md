@@ -13,7 +13,7 @@ MabelHUB, And All Apps Distributed With It, Unless Explicitly Stated Otherwise, 
 | Other | Any | ❌ | ❌ | N/A |
 
 ## Notes:
-*<sup>1</sup> - Mostly Works.
+*<sup>1</sup> - Compiles, Untested.
 
 *<sup>2</sup> - Compiles (With osxcross), Untested.
 
