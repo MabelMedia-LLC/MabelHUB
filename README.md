@@ -22,3 +22,10 @@ British English - 100% (Primary Development Language)
 Please Help Translate MabelHUB And It's Apps Into Other Languages, And Open PRs With The Language Files
 
 (You Should Use The en_gb Versions As A Base, As The Strings Contain Templates Filled In By The Programs (Errors And Other Variables))
+
+# Channel Support Timelines
+| Channel | Version           |
+|---------|-------------------|
+| LTS     | v1.3.3, Build 528 |
+| Stable  | v1.3.2, Build 527 |
+| Canary  | v1.3.3, Build 531 |
