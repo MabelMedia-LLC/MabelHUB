@@ -2,12 +2,12 @@
 MabelHUB - A Modern, Flexible Cross-Platform Package Manager, That Works For You.
 
 # Getting Started
-As Of v1.3.4, There Is A Simpler Way For You To Install MabeHUB: SimpleInstall!
-(This Depends On Java For A Way To Execute Code Across All Supported Platforms In A Single Binary).
-To Get Started, Simply Download And Double Click The "SimpleInstall.jar" File.
-It Will Select, Download And Execute The Appropriate Update Binary For Your Platform, Or Show An Error If
-You're Running An Unsupported One.
-Also, Use The "--canary" Or "--LTS" Flags To Switch To That Channel.
+### As Of v1.3.4, There Is A Simpler Way For You To Install MabeHUB: SimpleInstall!
+*(This Depends On Java For A Way To Execute Code Across All Supported Platforms In A Single Binary).*
+
+__To Get Started, Simply Download And Double Click The "SimpleInstall.jar" File.__
+- It Will Select, Download And Execute The Appropriate Update Binary For Your Platform, Or Show An Error If You're Running An Unsupported One.
+- Also, Use The "--canary" Or "--LTS" Flags To Switch To That Channel.
 
 # Licensing
 MabelHUB, And All Apps Distributed With It, Unless Explicitly Stated Otherwise, Fall Under The MCSPSL. Read <a href="https://github.com/MabelMedia-LLC/MCSPSL">The License</a> To Learn More.
