@@ -7,7 +7,7 @@ MabelHUB - A Modern, Flexible Cross-Platform Package Manager, That Works For You
 
 __To Get Started, Simply Download And Double Click The "SimpleInstall.jar" File.__
 - It Will Select, Download And Execute The Appropriate Update Binary For Your Platform, Or Show An Error If You're Running An Unsupported One.
-- Also, Use The "--canary" Or "--lts" Flags To Switch To That Channel.
+- Also, Use The `--canary` Or `--lts` Flags To Switch To That Channel.
 
 # Platform Support
 | Platform | CPU Type | Supported | Active Testing | Update File |
