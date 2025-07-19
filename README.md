@@ -27,8 +27,8 @@ Please Help Translate MabelHUB And It's Apps Into Other Languages, And Open PRs 
 | Channel | Latest Version           |
 |---------|--------------------------|
 | LTS     | v1.3.3, Build 528        |
-| Stable  | v1.3.1, Build 527        |
-| Canary  | v1.3.3, Build 533        |
+| Stable  | v1.3.1, Build 537        |
+| Canary  | v1.3.3, Build 538        |
 
 # Before Making An Issue, Ensure You're Running The Latest Version By Manually Running The Update Executable For Your OS.
 ### Versions That Don't Fall Under The 3 Release Channels Are Unsupported Other Than To Get Help Upgrading.
