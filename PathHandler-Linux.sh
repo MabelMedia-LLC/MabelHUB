@@ -2,11 +2,10 @@
 
 : <<EOF
 
-MabelHUB Binary Search Path Extender Utility - Linux Version
+MabelHUB Executable Search Path Extender Utility - Linux Version
 Copyright MabelMedia LLC.
 
-This Script Hooks Into Bash's Init Process, And Extends The Search Path To
-Allow You To Execute Any Of The Binaries Provided By MabelHUB, Or The Apps It Installs.
+This Script Extends The Executable Search Path To Allow You To Execute Any Of The Binaries Provided By MabelHUB, Or The Apps It Installs.
 
 EOF
 
