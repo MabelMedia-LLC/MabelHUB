@@ -8,7 +8,7 @@ This Script Extends The Executable Search Path To Allow You To Execute Any Of Th
 #>
 
 function ExtendPath {
-    $env:path = "${args[0]};$PATH"
+    $env:path = "${args[0]};$env:path"
 }
 
 ExtendPath("$env:userprofile/MabelHUB")
