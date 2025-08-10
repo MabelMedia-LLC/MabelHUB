@@ -8,7 +8,7 @@ MabelHUB Linux Architecture Picker. Copyright MabelMedia LLC.
 
 CPU=$(uname -m)
 if [[ CPU == x86_64 ]]; then
-    $0-x64
+    $0-x64 $@
 elif [[ CPU == aarch64 ]]; then
-    $0-aarch64
+    $0-aarch64 $@
 fi
