@@ -1,5 +1,5 @@
 # MabelHUB
-MabelHUB - A Modern, Flexible Cross-Platform Package Manager, That Works For You.
+MabelHUB - The Modern, Flexible Cross-Platform Package Manager, That Works For You.
 ### [More Info...](https://www.mabelisyt.co/MabelHUB)
 
 # Licensing
